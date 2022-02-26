@@ -1,4 +1,6 @@
-# At the End
+# Team name ; At the End
+By using facial emotion detection to show the video and music that can empathize with the user's emotions. 
+
 ## use cv2 library for face detection 
 
 ## deep.py
